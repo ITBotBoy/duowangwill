@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="387258e1-69bd-42bc-8b37-20be943d86d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1q0bXfhnxnwH5uBOxkIC4SWwu92" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="387258e1-69bd-42bc-8b37-20be943d86d0" name="Default Changelist" comment="" />
+      <created>1616219495540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616219495540</updated>
+      <workItem from="1616219496572" duration="6259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2051" y="118" width="1485" height="763" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1616222099785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2051" y="118" width="1485" height="763" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616222099785" />
+    <state x="2419" y="165" width="748" height="740" key="find.popup" timestamp="1616222555874">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2419" y="165" width="748" height="740" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616222555874" />
+    <state x="2365" y="228" key="run.anything.popup" timestamp="1616220139142">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2365" y="228" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616220139142" />
+  </component>
+</project>
