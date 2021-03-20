@@ -2,7 +2,7 @@ const nav = require("./utils/nav.js");
 var { cssSidebar, webpackSidebar } = nav;
 module.exports = {
   title: "前端笔记",
-  base: "/",
+  base: "/duowangwill/",
   description: '技术笔记收集整理，全栈工程师进阶之路',
   dest: "duowangwill",
   head: [["link", { rel: "icon", href: "/icon.png" }]],
